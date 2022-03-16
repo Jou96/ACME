@@ -1,7 +1,9 @@
 # ACME
-1.El proyecto de encuentra en la rama master
-2.Para la realizacion del ejercicio cree metodos de lectura y escritura de archivos
-3.Una vez realizado los metodos modifique el metodo leer archivo para poder hacer una camparativa de los horarios de los empleados 
-4. En el metodo leer archivo separe las lineas del archivo txt con un split guarde en dos vectores las lineas
-5. Para poder hacer la comparativa de los horarios utilice posicionamiento de los vectores un condicional para comparar posiciones y un contador para ver las veces que se repite el horario  
-6. El ejercicio se lo realizo en lenguaje JavaSE
+1.Find the project in the master branch
+2.To carry out the exercise, create methods for reading and writing files
+3.Once the methods are done, modify the read file method to be able to make a campaign of the employees' schedules
+4. In the read file method, separate the lines of the txt file with a split, save the lines in two vectors
+5. In order to compare the schedules, use the positioning of the vectors, a conditional to compare positions and a counter to see how many times the schedule is repeated
+6. The exercise was done in JavaSE language
+7. An MVC architecture is used
+
